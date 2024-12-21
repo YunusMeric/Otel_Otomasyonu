@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\PersonelTablo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PersonelTablo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelEkleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:personelEkleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:otelListele.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_Otomasyonuu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel_Otomasyonuu.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Customer_view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:otelEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelSilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:personelSilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Otel_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:otelListele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\CustomerList1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CustomerList1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\customerEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:customerEkle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelGuncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:otelGuncelleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "otelListele.resx",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.resx",
+              "RelativeDocumentMoniker": "otelListele.resx",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.resx",
+              "RelativeToolTip": "otelListele.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-20T12:33:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonelTablo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\PersonelTablo.cs",
+              "RelativeDocumentMoniker": "PersonelTablo.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\PersonelTablo.cs",
+              "RelativeToolTip": "PersonelTablo.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAFQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:57:14.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerList1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\CustomerList1.cs",
+              "RelativeDocumentMoniker": "CustomerList1.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\CustomerList1.cs",
+              "RelativeToolTip": "CustomerList1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:43:21.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "customerEkle.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\customerEkle.cs",
+              "RelativeDocumentMoniker": "customerEkle.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\customerEkle.cs",
+              "RelativeToolTip": "customerEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:43:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "otelEkle.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelEkle.cs",
+              "RelativeDocumentMoniker": "otelEkle.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelEkle.cs",
+              "RelativeToolTip": "otelEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:42:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer_view.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer_view.cs",
+              "RelativeDocumentMoniker": "Customer_view.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer_view.cs",
+              "RelativeToolTip": "Customer_view.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:39:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "personelEkleme.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelEkleme.cs",
+              "RelativeDocumentMoniker": "personelEkleme.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelEkleme.cs",
+              "RelativeToolTip": "personelEkleme.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:57:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\giris.cs",
+              "RelativeDocumentMoniker": "giris.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\giris.cs",
+              "RelativeToolTip": "giris.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:38:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Otel_Otomasyonuu.csproj",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_Otomasyonuu.csproj",
+              "RelativeDocumentMoniker": "Otel_Otomasyonuu.csproj",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_Otomasyonuu.csproj",
+              "RelativeToolTip": "Otel_Otomasyonuu.csproj",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T12:34:26.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Otel_list.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_list.cs",
+              "RelativeDocumentMoniker": "Otel_list.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel_list.cs",
+              "RelativeToolTip": "Otel_list.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:48:09.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:50:38.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "otelListele.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.cs",
+              "RelativeDocumentMoniker": "otelListele.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelListele.cs",
+              "RelativeToolTip": "otelListele.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:52:32.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Personel.cs",
+              "RelativeDocumentMoniker": "Personel.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Personel.cs",
+              "RelativeToolTip": "Personel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:57:01.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "personelSilme.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelSilme.cs",
+              "RelativeDocumentMoniker": "personelSilme.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\personelSilme.cs",
+              "RelativeToolTip": "personelSilme.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:07:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Otel.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel.cs",
+              "RelativeDocumentMoniker": "Otel.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Otel.cs",
+              "RelativeToolTip": "Otel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:41:39.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:38:38.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "otelGuncelleme.cs",
+              "DocumentMoniker": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelGuncelleme.cs",
+              "RelativeDocumentMoniker": "otelGuncelleme.cs",
+              "ToolTip": "C:\\Users\\ahmiy\\OneDrive\\Masa\u00FCst\u00FC\\Otel_otomasyomu\\otelGuncelleme.cs",
+              "RelativeToolTip": "otelGuncelleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:36:02.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
